@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/viso-front-end-task/static/css/main.e8541a1b.css",
+    "main.js": "/viso-front-end-task/static/js/main.1d4a936c.js",
+    "static/js/453.986c3db5.chunk.js": "/viso-front-end-task/static/js/453.986c3db5.chunk.js",
+    "index.html": "/viso-front-end-task/index.html",
+    "main.e8541a1b.css.map": "/viso-front-end-task/static/css/main.e8541a1b.css.map",
+    "main.1d4a936c.js.map": "/viso-front-end-task/static/js/main.1d4a936c.js.map",
+    "453.986c3db5.chunk.js.map": "/viso-front-end-task/static/js/453.986c3db5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8541a1b.css",
+    "static/js/main.1d4a936c.js"
+  ]
+}
