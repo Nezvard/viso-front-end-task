@@ -13,11 +13,11 @@ const firebaseConfig = {
   storageBucket: "visofrontendtask.appspot.com",
   messagingSenderId: "1069241187230",
   appId: "1:1069241187230:web:e97506c530ce50cf52348f",
-  measurementId: "G-0TQ0WM1J3G"
+  measurementId: "G-0TQ0WM1J3G",
 };
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
 
-export { app, analytics };
+export { app, firebaseConfig };
